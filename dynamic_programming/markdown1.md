@@ -10,8 +10,14 @@ $$
 \sum_{n=1}^{\infty} 2^{-n} = 1
 $$
 
-$$\pi \approx 3.14159$$
+$$
+\pi \approx 3.14159
+$$
 
-$$\pm \, 0.2$$
+$$
+\pm, 0.2
+$$
 
-$$\dfrac{0}{1} \neq \infty$$
+$$
+\dfrac{0}{1} \neq \infty
+$$
