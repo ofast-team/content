@@ -1,9 +1,9 @@
 # Reading 3
 
-$X \\implies Y$ \n
-$X \\impliedby Y$ \n
-$a \\to b$ \n
-$a \\longrightarrow b$ \n
-$a \\Rightarrow b$ \n
-$a \\Longrightarrow b$ \n
+$X \\implies Y$
+$X \\impliedby Y$
+$a \\to b$
+$a \\longrightarrow b$
+$a \\Rightarrow b$
+$a \\Longrightarrow b$
 $a \\propto b$
