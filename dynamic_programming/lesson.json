@@ -1,1 +1,9 @@
-["lesson.md", "markdown1.md", "markdown2.md", "markdown3.md"]
+[
+  { "filename": "lesson.md", "type": "reading" },
+  { "filename": "mcq1.md", "type": "mcq" },
+  { "filename": "mcq2.md", "type": "mcq" },
+  { "filename": "fitb.md", "type": "fitb" },
+  { "filename": "reading1.md", "type": "reading" },
+  { "filename": "reading2.md", "type": "reading" },
+  { "filename": "reading3.md", "type": "reading" }
+]
